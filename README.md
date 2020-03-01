@@ -1,4 +1,4 @@
 # CICD
-REPO FOR PRACTICING CICD PIPELINE for Jenkins.
-changing to trigger automatic jenkins build.
-adding one more line.
+REPO FOR PRACTICING Jenkins.
+These files are from Jenkins-today folder.
+can be used for freestyle,maven,Pipeline Projects on Jenkins.
