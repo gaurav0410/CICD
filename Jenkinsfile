@@ -5,7 +5,6 @@ pipeline {
         stage ('Compile Stage') {
             steps {
                 sh 'printenv'
-                bat "mvn package"
                 sh 'mvn clean compile'
             }
         }   
